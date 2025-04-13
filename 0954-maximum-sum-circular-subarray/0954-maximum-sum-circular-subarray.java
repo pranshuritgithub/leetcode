@@ -4,7 +4,7 @@ class Solution {
         int currmax = nums[0];
         int maxSum = nums[0];
         int currmin = nums[0];
-        int minSum = Integer.MAX_VALUE;
+        int minSum = nums[0];
         int total = nums[0];
 
         for(int i=1;i<n;i++)
