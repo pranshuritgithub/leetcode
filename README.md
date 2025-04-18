@@ -33,6 +33,7 @@ Code
 |  |
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/pranshuritgithub/leetcode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [0065-valid-number](https://github.com/pranshuritgithub/leetcode/tree/master/0065-valid-number) |
 | [0208-implement-trie-prefix-tree](https://github.com/pranshuritgithub/leetcode/tree/master/0208-implement-trie-prefix-tree) |
 ## Design
 |  |
