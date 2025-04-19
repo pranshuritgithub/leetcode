@@ -6,6 +6,7 @@ Code
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/pranshuritgithub/leetcode/tree/master/0001-two-sum) |
+| [0274-h-index](https://github.com/pranshuritgithub/leetcode/tree/master/0274-h-index) |
 | [0954-maximum-sum-circular-subarray](https://github.com/pranshuritgithub/leetcode/tree/master/0954-maximum-sum-circular-subarray) |
 | [2714-left-and-right-sum-differences](https://github.com/pranshuritgithub/leetcode/tree/master/2714-left-and-right-sum-differences) |
 ## Hash Table
@@ -63,4 +64,12 @@ Code
 |  |
 | ------- |
 | [0025-reverse-nodes-in-k-group](https://github.com/pranshuritgithub/leetcode/tree/master/0025-reverse-nodes-in-k-group) |
+## Sorting
+|  |
+| ------- |
+| [0274-h-index](https://github.com/pranshuritgithub/leetcode/tree/master/0274-h-index) |
+## Counting Sort
+|  |
+| ------- |
+| [0274-h-index](https://github.com/pranshuritgithub/leetcode/tree/master/0274-h-index) |
 <!---LeetCode Topics End-->
