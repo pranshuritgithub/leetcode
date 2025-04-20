@@ -72,4 +72,12 @@ Code
 |  |
 | ------- |
 | [0274-h-index](https://github.com/pranshuritgithub/leetcode/tree/master/0274-h-index) |
+## Math
+|  |
+| ------- |
+| [2998-count-symmetric-integers](https://github.com/pranshuritgithub/leetcode/tree/master/2998-count-symmetric-integers) |
+## Enumeration
+|  |
+| ------- |
+| [2998-count-symmetric-integers](https://github.com/pranshuritgithub/leetcode/tree/master/2998-count-symmetric-integers) |
 <!---LeetCode Topics End-->
