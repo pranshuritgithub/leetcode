@@ -9,6 +9,7 @@ Code
 | [0056-merge-intervals](https://github.com/pranshuritgithub/leetcode/tree/master/0056-merge-intervals) |
 | [0057-insert-interval](https://github.com/pranshuritgithub/leetcode/tree/master/0057-insert-interval) |
 | [0274-h-index](https://github.com/pranshuritgithub/leetcode/tree/master/0274-h-index) |
+| [0435-non-overlapping-intervals](https://github.com/pranshuritgithub/leetcode/tree/master/0435-non-overlapping-intervals) |
 | [0954-maximum-sum-circular-subarray](https://github.com/pranshuritgithub/leetcode/tree/master/0954-maximum-sum-circular-subarray) |
 | [2714-left-and-right-sum-differences](https://github.com/pranshuritgithub/leetcode/tree/master/2714-left-and-right-sum-differences) |
 ## Hash Table
@@ -23,6 +24,7 @@ Code
 ## Dynamic Programming
 |  |
 | ------- |
+| [0435-non-overlapping-intervals](https://github.com/pranshuritgithub/leetcode/tree/master/0435-non-overlapping-intervals) |
 | [0954-maximum-sum-circular-subarray](https://github.com/pranshuritgithub/leetcode/tree/master/0954-maximum-sum-circular-subarray) |
 ## Queue
 |  |
@@ -71,6 +73,7 @@ Code
 | ------- |
 | [0056-merge-intervals](https://github.com/pranshuritgithub/leetcode/tree/master/0056-merge-intervals) |
 | [0274-h-index](https://github.com/pranshuritgithub/leetcode/tree/master/0274-h-index) |
+| [0435-non-overlapping-intervals](https://github.com/pranshuritgithub/leetcode/tree/master/0435-non-overlapping-intervals) |
 ## Counting Sort
 |  |
 | ------- |
@@ -83,4 +86,8 @@ Code
 |  |
 | ------- |
 | [2998-count-symmetric-integers](https://github.com/pranshuritgithub/leetcode/tree/master/2998-count-symmetric-integers) |
+## Greedy
+|  |
+| ------- |
+| [0435-non-overlapping-intervals](https://github.com/pranshuritgithub/leetcode/tree/master/0435-non-overlapping-intervals) |
 <!---LeetCode Topics End-->
