@@ -12,12 +12,14 @@ Code
 | [0274-h-index](https://github.com/pranshuritgithub/leetcode/tree/master/0274-h-index) |
 | [0435-non-overlapping-intervals](https://github.com/pranshuritgithub/leetcode/tree/master/0435-non-overlapping-intervals) |
 | [0954-maximum-sum-circular-subarray](https://github.com/pranshuritgithub/leetcode/tree/master/0954-maximum-sum-circular-subarray) |
+| [1319-unique-number-of-occurrences](https://github.com/pranshuritgithub/leetcode/tree/master/1319-unique-number-of-occurrences) |
 | [2714-left-and-right-sum-differences](https://github.com/pranshuritgithub/leetcode/tree/master/2714-left-and-right-sum-differences) |
 ## Hash Table
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/pranshuritgithub/leetcode/tree/master/0001-two-sum) |
 | [0208-implement-trie-prefix-tree](https://github.com/pranshuritgithub/leetcode/tree/master/0208-implement-trie-prefix-tree) |
+| [1319-unique-number-of-occurrences](https://github.com/pranshuritgithub/leetcode/tree/master/1319-unique-number-of-occurrences) |
 ## Divide and Conquer
 |  |
 | ------- |
