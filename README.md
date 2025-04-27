@@ -10,6 +10,7 @@ Code
 | [0057-insert-interval](https://github.com/pranshuritgithub/leetcode/tree/master/0057-insert-interval) |
 | [0088-merge-sorted-array](https://github.com/pranshuritgithub/leetcode/tree/master/0088-merge-sorted-array) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/pranshuritgithub/leetcode/tree/master/0153-find-minimum-in-rotated-sorted-array) |
+| [0215-kth-largest-element-in-an-array](https://github.com/pranshuritgithub/leetcode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0274-h-index](https://github.com/pranshuritgithub/leetcode/tree/master/0274-h-index) |
 | [0435-non-overlapping-intervals](https://github.com/pranshuritgithub/leetcode/tree/master/0435-non-overlapping-intervals) |
 | [0954-maximum-sum-circular-subarray](https://github.com/pranshuritgithub/leetcode/tree/master/0954-maximum-sum-circular-subarray) |
@@ -24,6 +25,7 @@ Code
 ## Divide and Conquer
 |  |
 | ------- |
+| [0215-kth-largest-element-in-an-array](https://github.com/pranshuritgithub/leetcode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0954-maximum-sum-circular-subarray](https://github.com/pranshuritgithub/leetcode/tree/master/0954-maximum-sum-circular-subarray) |
 ## Dynamic Programming
 |  |
@@ -78,6 +80,7 @@ Code
 | ------- |
 | [0056-merge-intervals](https://github.com/pranshuritgithub/leetcode/tree/master/0056-merge-intervals) |
 | [0088-merge-sorted-array](https://github.com/pranshuritgithub/leetcode/tree/master/0088-merge-sorted-array) |
+| [0215-kth-largest-element-in-an-array](https://github.com/pranshuritgithub/leetcode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0274-h-index](https://github.com/pranshuritgithub/leetcode/tree/master/0274-h-index) |
 | [0435-non-overlapping-intervals](https://github.com/pranshuritgithub/leetcode/tree/master/0435-non-overlapping-intervals) |
 ## Counting Sort
@@ -100,4 +103,12 @@ Code
 |  |
 | ------- |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/pranshuritgithub/leetcode/tree/master/0153-find-minimum-in-rotated-sorted-array) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [0215-kth-largest-element-in-an-array](https://github.com/pranshuritgithub/leetcode/tree/master/0215-kth-largest-element-in-an-array) |
+## Quickselect
+|  |
+| ------- |
+| [0215-kth-largest-element-in-an-array](https://github.com/pranshuritgithub/leetcode/tree/master/0215-kth-largest-element-in-an-array) |
 <!---LeetCode Topics End-->
