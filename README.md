@@ -15,6 +15,7 @@ Code
 | [0435-non-overlapping-intervals](https://github.com/pranshuritgithub/leetcode/tree/master/0435-non-overlapping-intervals) |
 | [0954-maximum-sum-circular-subarray](https://github.com/pranshuritgithub/leetcode/tree/master/0954-maximum-sum-circular-subarray) |
 | [1319-unique-number-of-occurrences](https://github.com/pranshuritgithub/leetcode/tree/master/1319-unique-number-of-occurrences) |
+| [1646-kth-missing-positive-number](https://github.com/pranshuritgithub/leetcode/tree/master/1646-kth-missing-positive-number) |
 | [2714-left-and-right-sum-differences](https://github.com/pranshuritgithub/leetcode/tree/master/2714-left-and-right-sum-differences) |
 ## Hash Table
 |  |
@@ -103,6 +104,7 @@ Code
 |  |
 | ------- |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/pranshuritgithub/leetcode/tree/master/0153-find-minimum-in-rotated-sorted-array) |
+| [1646-kth-missing-positive-number](https://github.com/pranshuritgithub/leetcode/tree/master/1646-kth-missing-positive-number) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
