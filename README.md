@@ -13,6 +13,7 @@ Code
 | [0088-merge-sorted-array](https://github.com/pranshuritgithub/leetcode/tree/master/0088-merge-sorted-array) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/pranshuritgithub/leetcode/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0215-kth-largest-element-in-an-array](https://github.com/pranshuritgithub/leetcode/tree/master/0215-kth-largest-element-in-an-array) |
+| [0240-search-a-2d-matrix-ii](https://github.com/pranshuritgithub/leetcode/tree/master/0240-search-a-2d-matrix-ii) |
 | [0274-h-index](https://github.com/pranshuritgithub/leetcode/tree/master/0274-h-index) |
 | [0435-non-overlapping-intervals](https://github.com/pranshuritgithub/leetcode/tree/master/0435-non-overlapping-intervals) |
 | [0954-maximum-sum-circular-subarray](https://github.com/pranshuritgithub/leetcode/tree/master/0954-maximum-sum-circular-subarray) |
@@ -29,6 +30,7 @@ Code
 |  |
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/pranshuritgithub/leetcode/tree/master/0215-kth-largest-element-in-an-array) |
+| [0240-search-a-2d-matrix-ii](https://github.com/pranshuritgithub/leetcode/tree/master/0240-search-a-2d-matrix-ii) |
 | [0954-maximum-sum-circular-subarray](https://github.com/pranshuritgithub/leetcode/tree/master/0954-maximum-sum-circular-subarray) |
 ## Dynamic Programming
 |  |
@@ -108,6 +110,7 @@ Code
 | ------- |
 | [0074-search-a-2d-matrix](https://github.com/pranshuritgithub/leetcode/tree/master/0074-search-a-2d-matrix) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/pranshuritgithub/leetcode/tree/master/0153-find-minimum-in-rotated-sorted-array) |
+| [0240-search-a-2d-matrix-ii](https://github.com/pranshuritgithub/leetcode/tree/master/0240-search-a-2d-matrix-ii) |
 | [1646-kth-missing-positive-number](https://github.com/pranshuritgithub/leetcode/tree/master/1646-kth-missing-positive-number) |
 ## Heap (Priority Queue)
 |  |
@@ -122,4 +125,5 @@ Code
 | ------- |
 | [0048-rotate-image](https://github.com/pranshuritgithub/leetcode/tree/master/0048-rotate-image) |
 | [0074-search-a-2d-matrix](https://github.com/pranshuritgithub/leetcode/tree/master/0074-search-a-2d-matrix) |
+| [0240-search-a-2d-matrix-ii](https://github.com/pranshuritgithub/leetcode/tree/master/0240-search-a-2d-matrix-ii) |
 <!---LeetCode Topics End-->
