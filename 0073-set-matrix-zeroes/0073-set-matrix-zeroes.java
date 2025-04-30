@@ -3,8 +3,8 @@ class Solution {
         int rows = matrix.length;
         int cols = matrix[0].length;
 
-        boolean zeroRow[] = new boolean[rows];
-        boolean zeroCol[] = new boolean[cols];
+        int zeroRow[] = new int[rows];
+        int zeroCol[] = new int[cols];
 
         for(int i=0;i<rows;i++)
         {
@@ -12,8 +12,8 @@ class Solution {
             {
                 if(matrix[i][j] == 0)
                 {
-                    zeroRow[i] = true;
-                    zeroCol[j]= true;
+                    zeroRow[i] = 1;
+                    zeroCol[j] = 1;
                 }
             }
         }
@@ -22,7 +22,7 @@ class Solution {
         {
             for(int j=0;j<cols;j++)
             {
-                if(zeroRow[i] || zeroCol[j])
+                if(zeroRow[i] == 1 || zeroCol[j] == 1)
                 {
                     matrix[i][j] = 0;
                 }
