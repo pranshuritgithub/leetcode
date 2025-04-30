@@ -9,6 +9,7 @@ Code
 | [0048-rotate-image](https://github.com/pranshuritgithub/leetcode/tree/master/0048-rotate-image) |
 | [0056-merge-intervals](https://github.com/pranshuritgithub/leetcode/tree/master/0056-merge-intervals) |
 | [0057-insert-interval](https://github.com/pranshuritgithub/leetcode/tree/master/0057-insert-interval) |
+| [0073-set-matrix-zeroes](https://github.com/pranshuritgithub/leetcode/tree/master/0073-set-matrix-zeroes) |
 | [0074-search-a-2d-matrix](https://github.com/pranshuritgithub/leetcode/tree/master/0074-search-a-2d-matrix) |
 | [0088-merge-sorted-array](https://github.com/pranshuritgithub/leetcode/tree/master/0088-merge-sorted-array) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/pranshuritgithub/leetcode/tree/master/0153-find-minimum-in-rotated-sorted-array) |
@@ -24,6 +25,7 @@ Code
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/pranshuritgithub/leetcode/tree/master/0001-two-sum) |
+| [0073-set-matrix-zeroes](https://github.com/pranshuritgithub/leetcode/tree/master/0073-set-matrix-zeroes) |
 | [0208-implement-trie-prefix-tree](https://github.com/pranshuritgithub/leetcode/tree/master/0208-implement-trie-prefix-tree) |
 | [1319-unique-number-of-occurrences](https://github.com/pranshuritgithub/leetcode/tree/master/1319-unique-number-of-occurrences) |
 ## Divide and Conquer
@@ -124,6 +126,7 @@ Code
 |  |
 | ------- |
 | [0048-rotate-image](https://github.com/pranshuritgithub/leetcode/tree/master/0048-rotate-image) |
+| [0073-set-matrix-zeroes](https://github.com/pranshuritgithub/leetcode/tree/master/0073-set-matrix-zeroes) |
 | [0074-search-a-2d-matrix](https://github.com/pranshuritgithub/leetcode/tree/master/0074-search-a-2d-matrix) |
 | [0240-search-a-2d-matrix-ii](https://github.com/pranshuritgithub/leetcode/tree/master/0240-search-a-2d-matrix-ii) |
 <!---LeetCode Topics End-->
