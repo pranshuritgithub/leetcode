@@ -38,6 +38,7 @@ Code
 ## Dynamic Programming
 |  |
 | ------- |
+| [0010-regular-expression-matching](https://github.com/pranshuritgithub/leetcode/tree/master/0010-regular-expression-matching) |
 | [0435-non-overlapping-intervals](https://github.com/pranshuritgithub/leetcode/tree/master/0435-non-overlapping-intervals) |
 | [0954-maximum-sum-circular-subarray](https://github.com/pranshuritgithub/leetcode/tree/master/0954-maximum-sum-circular-subarray) |
 ## Queue
@@ -51,6 +52,7 @@ Code
 ## String
 |  |
 | ------- |
+| [0010-regular-expression-matching](https://github.com/pranshuritgithub/leetcode/tree/master/0010-regular-expression-matching) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/pranshuritgithub/leetcode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0065-valid-number](https://github.com/pranshuritgithub/leetcode/tree/master/0065-valid-number) |
 | [0208-implement-trie-prefix-tree](https://github.com/pranshuritgithub/leetcode/tree/master/0208-implement-trie-prefix-tree) |
@@ -83,6 +85,7 @@ Code
 ## Recursion
 |  |
 | ------- |
+| [0010-regular-expression-matching](https://github.com/pranshuritgithub/leetcode/tree/master/0010-regular-expression-matching) |
 | [0025-reverse-nodes-in-k-group](https://github.com/pranshuritgithub/leetcode/tree/master/0025-reverse-nodes-in-k-group) |
 ## Sorting
 |  |
