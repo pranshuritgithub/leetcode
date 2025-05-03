@@ -6,6 +6,7 @@ Code
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/pranshuritgithub/leetcode/tree/master/0001-two-sum) |
+| [0015-3sum](https://github.com/pranshuritgithub/leetcode/tree/master/0015-3sum) |
 | [0048-rotate-image](https://github.com/pranshuritgithub/leetcode/tree/master/0048-rotate-image) |
 | [0056-merge-intervals](https://github.com/pranshuritgithub/leetcode/tree/master/0056-merge-intervals) |
 | [0057-insert-interval](https://github.com/pranshuritgithub/leetcode/tree/master/0057-insert-interval) |
@@ -71,6 +72,7 @@ Code
 ## Two Pointers
 |  |
 | ------- |
+| [0015-3sum](https://github.com/pranshuritgithub/leetcode/tree/master/0015-3sum) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/pranshuritgithub/leetcode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0088-merge-sorted-array](https://github.com/pranshuritgithub/leetcode/tree/master/0088-merge-sorted-array) |
 | [2917-count-pairs-whose-sum-is-less-than-target](https://github.com/pranshuritgithub/leetcode/tree/master/2917-count-pairs-whose-sum-is-less-than-target) |
@@ -90,6 +92,7 @@ Code
 ## Sorting
 |  |
 | ------- |
+| [0015-3sum](https://github.com/pranshuritgithub/leetcode/tree/master/0015-3sum) |
 | [0056-merge-intervals](https://github.com/pranshuritgithub/leetcode/tree/master/0056-merge-intervals) |
 | [0088-merge-sorted-array](https://github.com/pranshuritgithub/leetcode/tree/master/0088-merge-sorted-array) |
 | [0215-kth-largest-element-in-an-array](https://github.com/pranshuritgithub/leetcode/tree/master/0215-kth-largest-element-in-an-array) |
