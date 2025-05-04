@@ -106,6 +106,7 @@ Code
 ## Math
 |  |
 | ------- |
+| [0029-divide-two-integers](https://github.com/pranshuritgithub/leetcode/tree/master/0029-divide-two-integers) |
 | [0048-rotate-image](https://github.com/pranshuritgithub/leetcode/tree/master/0048-rotate-image) |
 | [2998-count-symmetric-integers](https://github.com/pranshuritgithub/leetcode/tree/master/2998-count-symmetric-integers) |
 ## Enumeration
@@ -139,4 +140,8 @@ Code
 | [0073-set-matrix-zeroes](https://github.com/pranshuritgithub/leetcode/tree/master/0073-set-matrix-zeroes) |
 | [0074-search-a-2d-matrix](https://github.com/pranshuritgithub/leetcode/tree/master/0074-search-a-2d-matrix) |
 | [0240-search-a-2d-matrix-ii](https://github.com/pranshuritgithub/leetcode/tree/master/0240-search-a-2d-matrix-ii) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0029-divide-two-integers](https://github.com/pranshuritgithub/leetcode/tree/master/0029-divide-two-integers) |
 <!---LeetCode Topics End-->
