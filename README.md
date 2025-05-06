@@ -13,6 +13,7 @@ Code
 | [0073-set-matrix-zeroes](https://github.com/pranshuritgithub/leetcode/tree/master/0073-set-matrix-zeroes) |
 | [0074-search-a-2d-matrix](https://github.com/pranshuritgithub/leetcode/tree/master/0074-search-a-2d-matrix) |
 | [0088-merge-sorted-array](https://github.com/pranshuritgithub/leetcode/tree/master/0088-merge-sorted-array) |
+| [0128-longest-consecutive-sequence](https://github.com/pranshuritgithub/leetcode/tree/master/0128-longest-consecutive-sequence) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/pranshuritgithub/leetcode/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0215-kth-largest-element-in-an-array](https://github.com/pranshuritgithub/leetcode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0240-search-a-2d-matrix-ii](https://github.com/pranshuritgithub/leetcode/tree/master/0240-search-a-2d-matrix-ii) |
@@ -30,6 +31,7 @@ Code
 | ------- |
 | [0001-two-sum](https://github.com/pranshuritgithub/leetcode/tree/master/0001-two-sum) |
 | [0073-set-matrix-zeroes](https://github.com/pranshuritgithub/leetcode/tree/master/0073-set-matrix-zeroes) |
+| [0128-longest-consecutive-sequence](https://github.com/pranshuritgithub/leetcode/tree/master/0128-longest-consecutive-sequence) |
 | [0208-implement-trie-prefix-tree](https://github.com/pranshuritgithub/leetcode/tree/master/0208-implement-trie-prefix-tree) |
 | [0349-intersection-of-two-arrays](https://github.com/pranshuritgithub/leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/pranshuritgithub/leetcode/tree/master/0442-find-all-duplicates-in-an-array) |
@@ -151,4 +153,8 @@ Code
 |  |
 | ------- |
 | [0029-divide-two-integers](https://github.com/pranshuritgithub/leetcode/tree/master/0029-divide-two-integers) |
+## Union Find
+|  |
+| ------- |
+| [0128-longest-consecutive-sequence](https://github.com/pranshuritgithub/leetcode/tree/master/0128-longest-consecutive-sequence) |
 <!---LeetCode Topics End-->
