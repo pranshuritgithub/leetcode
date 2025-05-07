@@ -8,6 +8,7 @@ Code
 | [0001-two-sum](https://github.com/pranshuritgithub/leetcode/tree/master/0001-two-sum) |
 | [0015-3sum](https://github.com/pranshuritgithub/leetcode/tree/master/0015-3sum) |
 | [0048-rotate-image](https://github.com/pranshuritgithub/leetcode/tree/master/0048-rotate-image) |
+| [0049-group-anagrams](https://github.com/pranshuritgithub/leetcode/tree/master/0049-group-anagrams) |
 | [0056-merge-intervals](https://github.com/pranshuritgithub/leetcode/tree/master/0056-merge-intervals) |
 | [0057-insert-interval](https://github.com/pranshuritgithub/leetcode/tree/master/0057-insert-interval) |
 | [0073-set-matrix-zeroes](https://github.com/pranshuritgithub/leetcode/tree/master/0073-set-matrix-zeroes) |
@@ -30,6 +31,7 @@ Code
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/pranshuritgithub/leetcode/tree/master/0001-two-sum) |
+| [0049-group-anagrams](https://github.com/pranshuritgithub/leetcode/tree/master/0049-group-anagrams) |
 | [0073-set-matrix-zeroes](https://github.com/pranshuritgithub/leetcode/tree/master/0073-set-matrix-zeroes) |
 | [0128-longest-consecutive-sequence](https://github.com/pranshuritgithub/leetcode/tree/master/0128-longest-consecutive-sequence) |
 | [0208-implement-trie-prefix-tree](https://github.com/pranshuritgithub/leetcode/tree/master/0208-implement-trie-prefix-tree) |
@@ -61,6 +63,7 @@ Code
 | ------- |
 | [0010-regular-expression-matching](https://github.com/pranshuritgithub/leetcode/tree/master/0010-regular-expression-matching) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/pranshuritgithub/leetcode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [0049-group-anagrams](https://github.com/pranshuritgithub/leetcode/tree/master/0049-group-anagrams) |
 | [0065-valid-number](https://github.com/pranshuritgithub/leetcode/tree/master/0065-valid-number) |
 | [0208-implement-trie-prefix-tree](https://github.com/pranshuritgithub/leetcode/tree/master/0208-implement-trie-prefix-tree) |
 ## Design
@@ -100,6 +103,7 @@ Code
 |  |
 | ------- |
 | [0015-3sum](https://github.com/pranshuritgithub/leetcode/tree/master/0015-3sum) |
+| [0049-group-anagrams](https://github.com/pranshuritgithub/leetcode/tree/master/0049-group-anagrams) |
 | [0056-merge-intervals](https://github.com/pranshuritgithub/leetcode/tree/master/0056-merge-intervals) |
 | [0088-merge-sorted-array](https://github.com/pranshuritgithub/leetcode/tree/master/0088-merge-sorted-array) |
 | [0215-kth-largest-element-in-an-array](https://github.com/pranshuritgithub/leetcode/tree/master/0215-kth-largest-element-in-an-array) |
