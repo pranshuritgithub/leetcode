@@ -99,6 +99,7 @@ Code
 | ------- |
 | [0010-regular-expression-matching](https://github.com/pranshuritgithub/leetcode/tree/master/0010-regular-expression-matching) |
 | [0025-reverse-nodes-in-k-group](https://github.com/pranshuritgithub/leetcode/tree/master/0025-reverse-nodes-in-k-group) |
+| [0050-powx-n](https://github.com/pranshuritgithub/leetcode/tree/master/0050-powx-n) |
 ## Sorting
 |  |
 | ------- |
@@ -120,6 +121,7 @@ Code
 | ------- |
 | [0029-divide-two-integers](https://github.com/pranshuritgithub/leetcode/tree/master/0029-divide-two-integers) |
 | [0048-rotate-image](https://github.com/pranshuritgithub/leetcode/tree/master/0048-rotate-image) |
+| [0050-powx-n](https://github.com/pranshuritgithub/leetcode/tree/master/0050-powx-n) |
 | [2998-count-symmetric-integers](https://github.com/pranshuritgithub/leetcode/tree/master/2998-count-symmetric-integers) |
 ## Enumeration
 |  |
