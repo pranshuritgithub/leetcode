@@ -50,6 +50,7 @@ Code
 |  |
 | ------- |
 | [0010-regular-expression-matching](https://github.com/pranshuritgithub/leetcode/tree/master/0010-regular-expression-matching) |
+| [0091-decode-ways](https://github.com/pranshuritgithub/leetcode/tree/master/0091-decode-ways) |
 | [0174-dungeon-game](https://github.com/pranshuritgithub/leetcode/tree/master/0174-dungeon-game) |
 | [0435-non-overlapping-intervals](https://github.com/pranshuritgithub/leetcode/tree/master/0435-non-overlapping-intervals) |
 | [0954-maximum-sum-circular-subarray](https://github.com/pranshuritgithub/leetcode/tree/master/0954-maximum-sum-circular-subarray) |
@@ -68,6 +69,7 @@ Code
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/pranshuritgithub/leetcode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0049-group-anagrams](https://github.com/pranshuritgithub/leetcode/tree/master/0049-group-anagrams) |
 | [0065-valid-number](https://github.com/pranshuritgithub/leetcode/tree/master/0065-valid-number) |
+| [0091-decode-ways](https://github.com/pranshuritgithub/leetcode/tree/master/0091-decode-ways) |
 | [0166-fraction-to-recurring-decimal](https://github.com/pranshuritgithub/leetcode/tree/master/0166-fraction-to-recurring-decimal) |
 | [0208-implement-trie-prefix-tree](https://github.com/pranshuritgithub/leetcode/tree/master/0208-implement-trie-prefix-tree) |
 ## Design
