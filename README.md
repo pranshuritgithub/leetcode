@@ -13,6 +13,7 @@ Code
 | [0057-insert-interval](https://github.com/pranshuritgithub/leetcode/tree/master/0057-insert-interval) |
 | [0073-set-matrix-zeroes](https://github.com/pranshuritgithub/leetcode/tree/master/0073-set-matrix-zeroes) |
 | [0074-search-a-2d-matrix](https://github.com/pranshuritgithub/leetcode/tree/master/0074-search-a-2d-matrix) |
+| [0079-word-search](https://github.com/pranshuritgithub/leetcode/tree/master/0079-word-search) |
 | [0088-merge-sorted-array](https://github.com/pranshuritgithub/leetcode/tree/master/0088-merge-sorted-array) |
 | [0128-longest-consecutive-sequence](https://github.com/pranshuritgithub/leetcode/tree/master/0128-longest-consecutive-sequence) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/pranshuritgithub/leetcode/tree/master/0153-find-minimum-in-rotated-sorted-array) |
@@ -69,6 +70,7 @@ Code
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/pranshuritgithub/leetcode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0049-group-anagrams](https://github.com/pranshuritgithub/leetcode/tree/master/0049-group-anagrams) |
 | [0065-valid-number](https://github.com/pranshuritgithub/leetcode/tree/master/0065-valid-number) |
+| [0079-word-search](https://github.com/pranshuritgithub/leetcode/tree/master/0079-word-search) |
 | [0091-decode-ways](https://github.com/pranshuritgithub/leetcode/tree/master/0091-decode-ways) |
 | [0166-fraction-to-recurring-decimal](https://github.com/pranshuritgithub/leetcode/tree/master/0166-fraction-to-recurring-decimal) |
 | [0208-implement-trie-prefix-tree](https://github.com/pranshuritgithub/leetcode/tree/master/0208-implement-trie-prefix-tree) |
@@ -161,6 +163,7 @@ Code
 | [0048-rotate-image](https://github.com/pranshuritgithub/leetcode/tree/master/0048-rotate-image) |
 | [0073-set-matrix-zeroes](https://github.com/pranshuritgithub/leetcode/tree/master/0073-set-matrix-zeroes) |
 | [0074-search-a-2d-matrix](https://github.com/pranshuritgithub/leetcode/tree/master/0074-search-a-2d-matrix) |
+| [0079-word-search](https://github.com/pranshuritgithub/leetcode/tree/master/0079-word-search) |
 | [0174-dungeon-game](https://github.com/pranshuritgithub/leetcode/tree/master/0174-dungeon-game) |
 | [0240-search-a-2d-matrix-ii](https://github.com/pranshuritgithub/leetcode/tree/master/0240-search-a-2d-matrix-ii) |
 ## Bit Manipulation
@@ -171,4 +174,12 @@ Code
 |  |
 | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/pranshuritgithub/leetcode/tree/master/0128-longest-consecutive-sequence) |
+## Backtracking
+|  |
+| ------- |
+| [0079-word-search](https://github.com/pranshuritgithub/leetcode/tree/master/0079-word-search) |
+## Depth-First Search
+|  |
+| ------- |
+| [0079-word-search](https://github.com/pranshuritgithub/leetcode/tree/master/0079-word-search) |
 <!---LeetCode Topics End-->
