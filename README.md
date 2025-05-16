@@ -47,6 +47,7 @@ Code
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/pranshuritgithub/leetcode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0240-search-a-2d-matrix-ii](https://github.com/pranshuritgithub/leetcode/tree/master/0240-search-a-2d-matrix-ii) |
+| [0372-super-pow](https://github.com/pranshuritgithub/leetcode/tree/master/0372-super-pow) |
 | [0954-maximum-sum-circular-subarray](https://github.com/pranshuritgithub/leetcode/tree/master/0954-maximum-sum-circular-subarray) |
 ## Dynamic Programming
 |  |
@@ -133,6 +134,7 @@ Code
 | [0048-rotate-image](https://github.com/pranshuritgithub/leetcode/tree/master/0048-rotate-image) |
 | [0050-powx-n](https://github.com/pranshuritgithub/leetcode/tree/master/0050-powx-n) |
 | [0166-fraction-to-recurring-decimal](https://github.com/pranshuritgithub/leetcode/tree/master/0166-fraction-to-recurring-decimal) |
+| [0372-super-pow](https://github.com/pranshuritgithub/leetcode/tree/master/0372-super-pow) |
 | [2998-count-symmetric-integers](https://github.com/pranshuritgithub/leetcode/tree/master/2998-count-symmetric-integers) |
 ## Enumeration
 |  |
