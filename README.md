@@ -189,8 +189,21 @@ Code
 |  |
 | ------- |
 | [0079-word-search](https://github.com/pranshuritgithub/leetcode/tree/master/0079-word-search) |
+| [0098-validate-binary-search-tree](https://github.com/pranshuritgithub/leetcode/tree/master/0098-validate-binary-search-tree) |
 ## Sliding Window
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/pranshuritgithub/leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
+## Tree
+|  |
+| ------- |
+| [0098-validate-binary-search-tree](https://github.com/pranshuritgithub/leetcode/tree/master/0098-validate-binary-search-tree) |
+## Binary Search Tree
+|  |
+| ------- |
+| [0098-validate-binary-search-tree](https://github.com/pranshuritgithub/leetcode/tree/master/0098-validate-binary-search-tree) |
+## Binary Tree
+|  |
+| ------- |
+| [0098-validate-binary-search-tree](https://github.com/pranshuritgithub/leetcode/tree/master/0098-validate-binary-search-tree) |
 <!---LeetCode Topics End-->
