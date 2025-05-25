@@ -13,6 +13,7 @@ Code
 | [0057-insert-interval](https://github.com/pranshuritgithub/leetcode/tree/master/0057-insert-interval) |
 | [0073-set-matrix-zeroes](https://github.com/pranshuritgithub/leetcode/tree/master/0073-set-matrix-zeroes) |
 | [0074-search-a-2d-matrix](https://github.com/pranshuritgithub/leetcode/tree/master/0074-search-a-2d-matrix) |
+| [0078-subsets](https://github.com/pranshuritgithub/leetcode/tree/master/0078-subsets) |
 | [0079-word-search](https://github.com/pranshuritgithub/leetcode/tree/master/0079-word-search) |
 | [0088-merge-sorted-array](https://github.com/pranshuritgithub/leetcode/tree/master/0088-merge-sorted-array) |
 | [0128-longest-consecutive-sequence](https://github.com/pranshuritgithub/leetcode/tree/master/0128-longest-consecutive-sequence) |
@@ -177,6 +178,7 @@ Code
 |  |
 | ------- |
 | [0029-divide-two-integers](https://github.com/pranshuritgithub/leetcode/tree/master/0029-divide-two-integers) |
+| [0078-subsets](https://github.com/pranshuritgithub/leetcode/tree/master/0078-subsets) |
 ## Union Find
 |  |
 | ------- |
@@ -184,6 +186,7 @@ Code
 ## Backtracking
 |  |
 | ------- |
+| [0078-subsets](https://github.com/pranshuritgithub/leetcode/tree/master/0078-subsets) |
 | [0079-word-search](https://github.com/pranshuritgithub/leetcode/tree/master/0079-word-search) |
 ## Depth-First Search
 |  |
