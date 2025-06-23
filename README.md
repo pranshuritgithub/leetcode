@@ -28,6 +28,7 @@ Code
 | [0442-find-all-duplicates-in-an-array](https://github.com/pranshuritgithub/leetcode/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0954-maximum-sum-circular-subarray](https://github.com/pranshuritgithub/leetcode/tree/master/0954-maximum-sum-circular-subarray) |
 | [1319-unique-number-of-occurrences](https://github.com/pranshuritgithub/leetcode/tree/master/1319-unique-number-of-occurrences) |
+| [1370-count-number-of-nice-subarrays](https://github.com/pranshuritgithub/leetcode/tree/master/1370-count-number-of-nice-subarrays) |
 | [1646-kth-missing-positive-number](https://github.com/pranshuritgithub/leetcode/tree/master/1646-kth-missing-positive-number) |
 | [2714-left-and-right-sum-differences](https://github.com/pranshuritgithub/leetcode/tree/master/2714-left-and-right-sum-differences) |
 | [2917-count-pairs-whose-sum-is-less-than-target](https://github.com/pranshuritgithub/leetcode/tree/master/2917-count-pairs-whose-sum-is-less-than-target) |
@@ -44,6 +45,7 @@ Code
 | [0349-intersection-of-two-arrays](https://github.com/pranshuritgithub/leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/pranshuritgithub/leetcode/tree/master/0442-find-all-duplicates-in-an-array) |
 | [1319-unique-number-of-occurrences](https://github.com/pranshuritgithub/leetcode/tree/master/1319-unique-number-of-occurrences) |
+| [1370-count-number-of-nice-subarrays](https://github.com/pranshuritgithub/leetcode/tree/master/1370-count-number-of-nice-subarrays) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -92,6 +94,7 @@ Code
 ## Prefix Sum
 |  |
 | ------- |
+| [1370-count-number-of-nice-subarrays](https://github.com/pranshuritgithub/leetcode/tree/master/1370-count-number-of-nice-subarrays) |
 | [2714-left-and-right-sum-differences](https://github.com/pranshuritgithub/leetcode/tree/master/2714-left-and-right-sum-differences) |
 ## Two Pointers
 |  |
@@ -141,6 +144,7 @@ Code
 | [0050-powx-n](https://github.com/pranshuritgithub/leetcode/tree/master/0050-powx-n) |
 | [0166-fraction-to-recurring-decimal](https://github.com/pranshuritgithub/leetcode/tree/master/0166-fraction-to-recurring-decimal) |
 | [0372-super-pow](https://github.com/pranshuritgithub/leetcode/tree/master/0372-super-pow) |
+| [1370-count-number-of-nice-subarrays](https://github.com/pranshuritgithub/leetcode/tree/master/1370-count-number-of-nice-subarrays) |
 | [2998-count-symmetric-integers](https://github.com/pranshuritgithub/leetcode/tree/master/2998-count-symmetric-integers) |
 ## Enumeration
 |  |
@@ -202,6 +206,7 @@ Code
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/pranshuritgithub/leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
+| [1370-count-number-of-nice-subarrays](https://github.com/pranshuritgithub/leetcode/tree/master/1370-count-number-of-nice-subarrays) |
 ## Tree
 |  |
 | ------- |
