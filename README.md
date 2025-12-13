@@ -34,6 +34,7 @@ Code
 | [1319-unique-number-of-occurrences](https://github.com/pranshuritgithub/leetcode/tree/master/1319-unique-number-of-occurrences) |
 | [1370-count-number-of-nice-subarrays](https://github.com/pranshuritgithub/leetcode/tree/master/1370-count-number-of-nice-subarrays) |
 | [1646-kth-missing-positive-number](https://github.com/pranshuritgithub/leetcode/tree/master/1646-kth-missing-positive-number) |
+| [1979-find-greatest-common-divisor-of-array](https://github.com/pranshuritgithub/leetcode/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2714-left-and-right-sum-differences](https://github.com/pranshuritgithub/leetcode/tree/master/2714-left-and-right-sum-differences) |
 | [2917-count-pairs-whose-sum-is-less-than-target](https://github.com/pranshuritgithub/leetcode/tree/master/2917-count-pairs-whose-sum-is-less-than-target) |
 ## Hash Table
@@ -159,6 +160,7 @@ Code
 | [0268-missing-number](https://github.com/pranshuritgithub/leetcode/tree/master/0268-missing-number) |
 | [0372-super-pow](https://github.com/pranshuritgithub/leetcode/tree/master/0372-super-pow) |
 | [1370-count-number-of-nice-subarrays](https://github.com/pranshuritgithub/leetcode/tree/master/1370-count-number-of-nice-subarrays) |
+| [1979-find-greatest-common-divisor-of-array](https://github.com/pranshuritgithub/leetcode/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2998-count-symmetric-integers](https://github.com/pranshuritgithub/leetcode/tree/master/2998-count-symmetric-integers) |
 ## Enumeration
 |  |
@@ -242,4 +244,8 @@ Code
 | ------- |
 | [0104-maximum-depth-of-binary-tree](https://github.com/pranshuritgithub/leetcode/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0322-coin-change](https://github.com/pranshuritgithub/leetcode/tree/master/0322-coin-change) |
+## Number Theory
+|  |
+| ------- |
+| [1979-find-greatest-common-divisor-of-array](https://github.com/pranshuritgithub/leetcode/tree/master/1979-find-greatest-common-divisor-of-array) |
 <!---LeetCode Topics End-->
