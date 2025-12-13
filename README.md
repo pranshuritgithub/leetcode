@@ -159,6 +159,7 @@ Code
 | [0166-fraction-to-recurring-decimal](https://github.com/pranshuritgithub/leetcode/tree/master/0166-fraction-to-recurring-decimal) |
 | [0268-missing-number](https://github.com/pranshuritgithub/leetcode/tree/master/0268-missing-number) |
 | [0372-super-pow](https://github.com/pranshuritgithub/leetcode/tree/master/0372-super-pow) |
+| [0507-perfect-number](https://github.com/pranshuritgithub/leetcode/tree/master/0507-perfect-number) |
 | [1370-count-number-of-nice-subarrays](https://github.com/pranshuritgithub/leetcode/tree/master/1370-count-number-of-nice-subarrays) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/pranshuritgithub/leetcode/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2998-count-symmetric-integers](https://github.com/pranshuritgithub/leetcode/tree/master/2998-count-symmetric-integers) |
