@@ -21,6 +21,7 @@ Code
 | [0128-longest-consecutive-sequence](https://github.com/pranshuritgithub/leetcode/tree/master/0128-longest-consecutive-sequence) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/pranshuritgithub/leetcode/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0174-dungeon-game](https://github.com/pranshuritgithub/leetcode/tree/master/0174-dungeon-game) |
+| [0189-rotate-array](https://github.com/pranshuritgithub/leetcode/tree/master/0189-rotate-array) |
 | [0198-house-robber](https://github.com/pranshuritgithub/leetcode/tree/master/0198-house-robber) |
 | [0215-kth-largest-element-in-an-array](https://github.com/pranshuritgithub/leetcode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0240-search-a-2d-matrix-ii](https://github.com/pranshuritgithub/leetcode/tree/master/0240-search-a-2d-matrix-ii) |
@@ -115,6 +116,7 @@ Code
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/pranshuritgithub/leetcode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0075-sort-colors](https://github.com/pranshuritgithub/leetcode/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/pranshuritgithub/leetcode/tree/master/0088-merge-sorted-array) |
+| [0189-rotate-array](https://github.com/pranshuritgithub/leetcode/tree/master/0189-rotate-array) |
 | [0287-find-the-duplicate-number](https://github.com/pranshuritgithub/leetcode/tree/master/0287-find-the-duplicate-number) |
 | [0344-reverse-string](https://github.com/pranshuritgithub/leetcode/tree/master/0344-reverse-string) |
 | [0349-intersection-of-two-arrays](https://github.com/pranshuritgithub/leetcode/tree/master/0349-intersection-of-two-arrays) |
@@ -160,6 +162,7 @@ Code
 | [0050-powx-n](https://github.com/pranshuritgithub/leetcode/tree/master/0050-powx-n) |
 | [0069-sqrtx](https://github.com/pranshuritgithub/leetcode/tree/master/0069-sqrtx) |
 | [0166-fraction-to-recurring-decimal](https://github.com/pranshuritgithub/leetcode/tree/master/0166-fraction-to-recurring-decimal) |
+| [0189-rotate-array](https://github.com/pranshuritgithub/leetcode/tree/master/0189-rotate-array) |
 | [0268-missing-number](https://github.com/pranshuritgithub/leetcode/tree/master/0268-missing-number) |
 | [0372-super-pow](https://github.com/pranshuritgithub/leetcode/tree/master/0372-super-pow) |
 | [0507-perfect-number](https://github.com/pranshuritgithub/leetcode/tree/master/0507-perfect-number) |
