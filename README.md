@@ -56,6 +56,7 @@ Code
 | [0451-sort-characters-by-frequency](https://github.com/pranshuritgithub/leetcode/tree/master/0451-sort-characters-by-frequency) |
 | [1319-unique-number-of-occurrences](https://github.com/pranshuritgithub/leetcode/tree/master/1319-unique-number-of-occurrences) |
 | [1370-count-number-of-nice-subarrays](https://github.com/pranshuritgithub/leetcode/tree/master/1370-count-number-of-nice-subarrays) |
+| [2062-count-vowel-substrings-of-a-string](https://github.com/pranshuritgithub/leetcode/tree/master/2062-count-vowel-substrings-of-a-string) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -97,6 +98,7 @@ Code
 | [0208-implement-trie-prefix-tree](https://github.com/pranshuritgithub/leetcode/tree/master/0208-implement-trie-prefix-tree) |
 | [0344-reverse-string](https://github.com/pranshuritgithub/leetcode/tree/master/0344-reverse-string) |
 | [0451-sort-characters-by-frequency](https://github.com/pranshuritgithub/leetcode/tree/master/0451-sort-characters-by-frequency) |
+| [2062-count-vowel-substrings-of-a-string](https://github.com/pranshuritgithub/leetcode/tree/master/2062-count-vowel-substrings-of-a-string) |
 ## Design
 |  |
 | ------- |
