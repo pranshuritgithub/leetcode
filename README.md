@@ -94,6 +94,7 @@ Code
 | [0065-valid-number](https://github.com/pranshuritgithub/leetcode/tree/master/0065-valid-number) |
 | [0079-word-search](https://github.com/pranshuritgithub/leetcode/tree/master/0079-word-search) |
 | [0091-decode-ways](https://github.com/pranshuritgithub/leetcode/tree/master/0091-decode-ways) |
+| [0151-reverse-words-in-a-string](https://github.com/pranshuritgithub/leetcode/tree/master/0151-reverse-words-in-a-string) |
 | [0166-fraction-to-recurring-decimal](https://github.com/pranshuritgithub/leetcode/tree/master/0166-fraction-to-recurring-decimal) |
 | [0208-implement-trie-prefix-tree](https://github.com/pranshuritgithub/leetcode/tree/master/0208-implement-trie-prefix-tree) |
 | [0344-reverse-string](https://github.com/pranshuritgithub/leetcode/tree/master/0344-reverse-string) |
@@ -120,6 +121,7 @@ Code
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/pranshuritgithub/leetcode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0075-sort-colors](https://github.com/pranshuritgithub/leetcode/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/pranshuritgithub/leetcode/tree/master/0088-merge-sorted-array) |
+| [0151-reverse-words-in-a-string](https://github.com/pranshuritgithub/leetcode/tree/master/0151-reverse-words-in-a-string) |
 | [0189-rotate-array](https://github.com/pranshuritgithub/leetcode/tree/master/0189-rotate-array) |
 | [0287-find-the-duplicate-number](https://github.com/pranshuritgithub/leetcode/tree/master/0287-find-the-duplicate-number) |
 | [0344-reverse-string](https://github.com/pranshuritgithub/leetcode/tree/master/0344-reverse-string) |
