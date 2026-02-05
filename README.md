@@ -135,12 +135,14 @@ Code
 |  |
 | ------- |
 | [0025-reverse-nodes-in-k-group](https://github.com/pranshuritgithub/leetcode/tree/master/0025-reverse-nodes-in-k-group) |
+| [0206-reverse-linked-list](https://github.com/pranshuritgithub/leetcode/tree/master/0206-reverse-linked-list) |
 ## Recursion
 |  |
 | ------- |
 | [0010-regular-expression-matching](https://github.com/pranshuritgithub/leetcode/tree/master/0010-regular-expression-matching) |
 | [0025-reverse-nodes-in-k-group](https://github.com/pranshuritgithub/leetcode/tree/master/0025-reverse-nodes-in-k-group) |
 | [0050-powx-n](https://github.com/pranshuritgithub/leetcode/tree/master/0050-powx-n) |
+| [0206-reverse-linked-list](https://github.com/pranshuritgithub/leetcode/tree/master/0206-reverse-linked-list) |
 ## Sorting
 |  |
 | ------- |
