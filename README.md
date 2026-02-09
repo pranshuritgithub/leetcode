@@ -90,6 +90,7 @@ Code
 | [0003-longest-substring-without-repeating-characters](https://github.com/pranshuritgithub/leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0005-longest-palindromic-substring](https://github.com/pranshuritgithub/leetcode/tree/master/0005-longest-palindromic-substring) |
 | [0010-regular-expression-matching](https://github.com/pranshuritgithub/leetcode/tree/master/0010-regular-expression-matching) |
+| [0020-valid-parentheses](https://github.com/pranshuritgithub/leetcode/tree/master/0020-valid-parentheses) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/pranshuritgithub/leetcode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0049-group-anagrams](https://github.com/pranshuritgithub/leetcode/tree/master/0049-group-anagrams) |
 | [0065-valid-number](https://github.com/pranshuritgithub/leetcode/tree/master/0065-valid-number) |
@@ -281,4 +282,8 @@ Code
 |  |
 | ------- |
 | [0451-sort-characters-by-frequency](https://github.com/pranshuritgithub/leetcode/tree/master/0451-sort-characters-by-frequency) |
+## Stack
+|  |
+| ------- |
+| [0020-valid-parentheses](https://github.com/pranshuritgithub/leetcode/tree/master/0020-valid-parentheses) |
 <!---LeetCode Topics End-->
