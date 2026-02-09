@@ -36,6 +36,7 @@ Code
 | [0954-maximum-sum-circular-subarray](https://github.com/pranshuritgithub/leetcode/tree/master/0954-maximum-sum-circular-subarray) |
 | [1319-unique-number-of-occurrences](https://github.com/pranshuritgithub/leetcode/tree/master/1319-unique-number-of-occurrences) |
 | [1370-count-number-of-nice-subarrays](https://github.com/pranshuritgithub/leetcode/tree/master/1370-count-number-of-nice-subarrays) |
+| [1480-running-sum-of-1d-array](https://github.com/pranshuritgithub/leetcode/tree/master/1480-running-sum-of-1d-array) |
 | [1646-kth-missing-positive-number](https://github.com/pranshuritgithub/leetcode/tree/master/1646-kth-missing-positive-number) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/pranshuritgithub/leetcode/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2714-left-and-right-sum-differences](https://github.com/pranshuritgithub/leetcode/tree/master/2714-left-and-right-sum-differences) |
@@ -118,6 +119,7 @@ Code
 |  |
 | ------- |
 | [1370-count-number-of-nice-subarrays](https://github.com/pranshuritgithub/leetcode/tree/master/1370-count-number-of-nice-subarrays) |
+| [1480-running-sum-of-1d-array](https://github.com/pranshuritgithub/leetcode/tree/master/1480-running-sum-of-1d-array) |
 | [2714-left-and-right-sum-differences](https://github.com/pranshuritgithub/leetcode/tree/master/2714-left-and-right-sum-differences) |
 ## Two Pointers
 |  |
