@@ -81,6 +81,7 @@ Code
 ## Queue
 |  |
 | ------- |
+| [0232-implement-queue-using-stacks](https://github.com/pranshuritgithub/leetcode/tree/master/0232-implement-queue-using-stacks) |
 | [0954-maximum-sum-circular-subarray](https://github.com/pranshuritgithub/leetcode/tree/master/0954-maximum-sum-circular-subarray) |
 ## Monotonic Queue
 |  |
@@ -108,6 +109,7 @@ Code
 |  |
 | ------- |
 | [0208-implement-trie-prefix-tree](https://github.com/pranshuritgithub/leetcode/tree/master/0208-implement-trie-prefix-tree) |
+| [0232-implement-queue-using-stacks](https://github.com/pranshuritgithub/leetcode/tree/master/0232-implement-queue-using-stacks) |
 ## Trie
 |  |
 | ------- |
@@ -288,6 +290,7 @@ Code
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/pranshuritgithub/leetcode/tree/master/0020-valid-parentheses) |
+| [0232-implement-queue-using-stacks](https://github.com/pranshuritgithub/leetcode/tree/master/0232-implement-queue-using-stacks) |
 | [0496-next-greater-element-i](https://github.com/pranshuritgithub/leetcode/tree/master/0496-next-greater-element-i) |
 ## Monotonic Stack
 |  |
