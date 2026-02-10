@@ -42,6 +42,7 @@ Code
 | [2714-left-and-right-sum-differences](https://github.com/pranshuritgithub/leetcode/tree/master/2714-left-and-right-sum-differences) |
 | [2798-number-of-employees-who-met-the-target](https://github.com/pranshuritgithub/leetcode/tree/master/2798-number-of-employees-who-met-the-target) |
 | [2917-count-pairs-whose-sum-is-less-than-target](https://github.com/pranshuritgithub/leetcode/tree/master/2917-count-pairs-whose-sum-is-less-than-target) |
+| [3005-count-elements-with-maximum-frequency](https://github.com/pranshuritgithub/leetcode/tree/master/3005-count-elements-with-maximum-frequency) |
 ## Hash Table
 |  |
 | ------- |
@@ -61,6 +62,7 @@ Code
 | [1319-unique-number-of-occurrences](https://github.com/pranshuritgithub/leetcode/tree/master/1319-unique-number-of-occurrences) |
 | [1370-count-number-of-nice-subarrays](https://github.com/pranshuritgithub/leetcode/tree/master/1370-count-number-of-nice-subarrays) |
 | [2062-count-vowel-substrings-of-a-string](https://github.com/pranshuritgithub/leetcode/tree/master/2062-count-vowel-substrings-of-a-string) |
+| [3005-count-elements-with-maximum-frequency](https://github.com/pranshuritgithub/leetcode/tree/master/3005-count-elements-with-maximum-frequency) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -179,6 +181,7 @@ Code
 | ------- |
 | [0274-h-index](https://github.com/pranshuritgithub/leetcode/tree/master/0274-h-index) |
 | [0451-sort-characters-by-frequency](https://github.com/pranshuritgithub/leetcode/tree/master/0451-sort-characters-by-frequency) |
+| [3005-count-elements-with-maximum-frequency](https://github.com/pranshuritgithub/leetcode/tree/master/3005-count-elements-with-maximum-frequency) |
 ## Math
 |  |
 | ------- |
