@@ -40,6 +40,7 @@ Code
 | [1370-count-number-of-nice-subarrays](https://github.com/pranshuritgithub/leetcode/tree/master/1370-count-number-of-nice-subarrays) |
 | [1480-running-sum-of-1d-array](https://github.com/pranshuritgithub/leetcode/tree/master/1480-running-sum-of-1d-array) |
 | [1646-kth-missing-positive-number](https://github.com/pranshuritgithub/leetcode/tree/master/1646-kth-missing-positive-number) |
+| [1748-sum-of-unique-elements](https://github.com/pranshuritgithub/leetcode/tree/master/1748-sum-of-unique-elements) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/pranshuritgithub/leetcode/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2714-left-and-right-sum-differences](https://github.com/pranshuritgithub/leetcode/tree/master/2714-left-and-right-sum-differences) |
 | [2798-number-of-employees-who-met-the-target](https://github.com/pranshuritgithub/leetcode/tree/master/2798-number-of-employees-who-met-the-target) |
@@ -65,6 +66,7 @@ Code
 | [1207-unique-number-of-occurrences](https://github.com/pranshuritgithub/leetcode/tree/master/1207-unique-number-of-occurrences) |
 | [1319-unique-number-of-occurrences](https://github.com/pranshuritgithub/leetcode/tree/master/1319-unique-number-of-occurrences) |
 | [1370-count-number-of-nice-subarrays](https://github.com/pranshuritgithub/leetcode/tree/master/1370-count-number-of-nice-subarrays) |
+| [1748-sum-of-unique-elements](https://github.com/pranshuritgithub/leetcode/tree/master/1748-sum-of-unique-elements) |
 | [2062-count-vowel-substrings-of-a-string](https://github.com/pranshuritgithub/leetcode/tree/master/2062-count-vowel-substrings-of-a-string) |
 | [3005-count-elements-with-maximum-frequency](https://github.com/pranshuritgithub/leetcode/tree/master/3005-count-elements-with-maximum-frequency) |
 ## Divide and Conquer
@@ -186,6 +188,7 @@ Code
 | ------- |
 | [0274-h-index](https://github.com/pranshuritgithub/leetcode/tree/master/0274-h-index) |
 | [0451-sort-characters-by-frequency](https://github.com/pranshuritgithub/leetcode/tree/master/0451-sort-characters-by-frequency) |
+| [1748-sum-of-unique-elements](https://github.com/pranshuritgithub/leetcode/tree/master/1748-sum-of-unique-elements) |
 | [3005-count-elements-with-maximum-frequency](https://github.com/pranshuritgithub/leetcode/tree/master/3005-count-elements-with-maximum-frequency) |
 ## Math
 |  |
