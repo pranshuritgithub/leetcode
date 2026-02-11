@@ -181,6 +181,7 @@ Code
 | [0274-h-index](https://github.com/pranshuritgithub/leetcode/tree/master/0274-h-index) |
 | [0349-intersection-of-two-arrays](https://github.com/pranshuritgithub/leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0435-non-overlapping-intervals](https://github.com/pranshuritgithub/leetcode/tree/master/0435-non-overlapping-intervals) |
+| [0442-find-all-duplicates-in-an-array](https://github.com/pranshuritgithub/leetcode/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0451-sort-characters-by-frequency](https://github.com/pranshuritgithub/leetcode/tree/master/0451-sort-characters-by-frequency) |
 | [2917-count-pairs-whose-sum-is-less-than-target](https://github.com/pranshuritgithub/leetcode/tree/master/2917-count-pairs-whose-sum-is-less-than-target) |
 ## Counting Sort
