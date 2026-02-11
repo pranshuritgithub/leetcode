@@ -195,6 +195,7 @@ Code
 |  |
 | ------- |
 | [0007-reverse-integer](https://github.com/pranshuritgithub/leetcode/tree/master/0007-reverse-integer) |
+| [0009-palindrome-number](https://github.com/pranshuritgithub/leetcode/tree/master/0009-palindrome-number) |
 | [0029-divide-two-integers](https://github.com/pranshuritgithub/leetcode/tree/master/0029-divide-two-integers) |
 | [0048-rotate-image](https://github.com/pranshuritgithub/leetcode/tree/master/0048-rotate-image) |
 | [0050-powx-n](https://github.com/pranshuritgithub/leetcode/tree/master/0050-powx-n) |
