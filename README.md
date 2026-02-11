@@ -35,6 +35,7 @@ Code
 | [0442-find-all-duplicates-in-an-array](https://github.com/pranshuritgithub/leetcode/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0496-next-greater-element-i](https://github.com/pranshuritgithub/leetcode/tree/master/0496-next-greater-element-i) |
 | [0954-maximum-sum-circular-subarray](https://github.com/pranshuritgithub/leetcode/tree/master/0954-maximum-sum-circular-subarray) |
+| [1207-unique-number-of-occurrences](https://github.com/pranshuritgithub/leetcode/tree/master/1207-unique-number-of-occurrences) |
 | [1319-unique-number-of-occurrences](https://github.com/pranshuritgithub/leetcode/tree/master/1319-unique-number-of-occurrences) |
 | [1370-count-number-of-nice-subarrays](https://github.com/pranshuritgithub/leetcode/tree/master/1370-count-number-of-nice-subarrays) |
 | [1480-running-sum-of-1d-array](https://github.com/pranshuritgithub/leetcode/tree/master/1480-running-sum-of-1d-array) |
@@ -61,6 +62,7 @@ Code
 | [0442-find-all-duplicates-in-an-array](https://github.com/pranshuritgithub/leetcode/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0451-sort-characters-by-frequency](https://github.com/pranshuritgithub/leetcode/tree/master/0451-sort-characters-by-frequency) |
 | [0496-next-greater-element-i](https://github.com/pranshuritgithub/leetcode/tree/master/0496-next-greater-element-i) |
+| [1207-unique-number-of-occurrences](https://github.com/pranshuritgithub/leetcode/tree/master/1207-unique-number-of-occurrences) |
 | [1319-unique-number-of-occurrences](https://github.com/pranshuritgithub/leetcode/tree/master/1319-unique-number-of-occurrences) |
 | [1370-count-number-of-nice-subarrays](https://github.com/pranshuritgithub/leetcode/tree/master/1370-count-number-of-nice-subarrays) |
 | [2062-count-vowel-substrings-of-a-string](https://github.com/pranshuritgithub/leetcode/tree/master/2062-count-vowel-substrings-of-a-string) |
