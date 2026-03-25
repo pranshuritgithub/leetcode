@@ -20,6 +20,7 @@ Code
 | [0088-merge-sorted-array](https://github.com/pranshuritgithub/leetcode/tree/master/0088-merge-sorted-array) |
 | [0128-longest-consecutive-sequence](https://github.com/pranshuritgithub/leetcode/tree/master/0128-longest-consecutive-sequence) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/pranshuritgithub/leetcode/tree/master/0153-find-minimum-in-rotated-sorted-array) |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/pranshuritgithub/leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0174-dungeon-game](https://github.com/pranshuritgithub/leetcode/tree/master/0174-dungeon-game) |
 | [0189-rotate-array](https://github.com/pranshuritgithub/leetcode/tree/master/0189-rotate-array) |
 | [0198-house-robber](https://github.com/pranshuritgithub/leetcode/tree/master/0198-house-robber) |
@@ -143,6 +144,7 @@ Code
 | [0088-merge-sorted-array](https://github.com/pranshuritgithub/leetcode/tree/master/0088-merge-sorted-array) |
 | [0141-linked-list-cycle](https://github.com/pranshuritgithub/leetcode/tree/master/0141-linked-list-cycle) |
 | [0151-reverse-words-in-a-string](https://github.com/pranshuritgithub/leetcode/tree/master/0151-reverse-words-in-a-string) |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/pranshuritgithub/leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0189-rotate-array](https://github.com/pranshuritgithub/leetcode/tree/master/0189-rotate-array) |
 | [0287-find-the-duplicate-number](https://github.com/pranshuritgithub/leetcode/tree/master/0287-find-the-duplicate-number) |
 | [0344-reverse-string](https://github.com/pranshuritgithub/leetcode/tree/master/0344-reverse-string) |
@@ -229,6 +231,7 @@ Code
 | [0069-sqrtx](https://github.com/pranshuritgithub/leetcode/tree/master/0069-sqrtx) |
 | [0074-search-a-2d-matrix](https://github.com/pranshuritgithub/leetcode/tree/master/0074-search-a-2d-matrix) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/pranshuritgithub/leetcode/tree/master/0153-find-minimum-in-rotated-sorted-array) |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/pranshuritgithub/leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0240-search-a-2d-matrix-ii](https://github.com/pranshuritgithub/leetcode/tree/master/0240-search-a-2d-matrix-ii) |
 | [0268-missing-number](https://github.com/pranshuritgithub/leetcode/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/pranshuritgithub/leetcode/tree/master/0287-find-the-duplicate-number) |
